@@ -24,4 +24,4 @@ This is a basic authentication app built with Node.js, Express, HTML, and CSS. T
 1. Clone the repository to your local machine:
    ```bash
    https://github.com/Arkit-k/auth-app-with-cookies.git
-   cd auth-app
+   cd auth-app-with-cookies
