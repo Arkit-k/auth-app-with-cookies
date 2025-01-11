@@ -23,3 +23,5 @@ This is a basic authentication app built with Node.js, Express, HTML, and CSS. T
 
 1. Clone the repository to your local machine:
    ```bash
+   git clone https://github.com/yourusername/auth-app.git
+   cd auth-app
